@@ -3,4 +3,4 @@ https://konamyon.github.io/CG/
 ## 概要
 「CGモデリング及び演習」で制作した授業課題です。雪だるまが仲間の雪だるまたちに帽子を被せて回る短いアニメーション作品です。みんな雪に当たるのが好きなので被せてもらったそばから脱いでしまいます。使用言語はTypeScriptで、Three.jsを使用しています。
 ## スクリーンショット
-<img src="assets/image.png">
+<img src="assets/image.png" width=400px>
